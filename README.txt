@@ -1,4 +1,4 @@
-This my personal portfolio for data science projects and knowledge and this is the link for navegate > https://grapejordison.github.io/ds-projects-portfolio-editorial/#
+This my personal portfolio for data science projects and knowledge and this is the link for navegate > https://grapejordison.github.io/ds-projects-portfolio-dimension/#
 
 
 Dimension by HTML5 UP
