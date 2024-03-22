@@ -1,3 +1,6 @@
+This my personal portfolio for data science projects and knowledge and this is the link for navegate > https://grapejordison.github.io/ds-projects-portfolio-editorial/#
+
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
